@@ -11,7 +11,7 @@ This is the Recommendation Engine that will be used in building the <b>Recipe Ap
 
 We will analyse the past recipes of the user and suggest back those items which are similar.
 
-We will be use <b>TfidfVectorizer</b>  <b>linear_kernel</b> from <b>Scikit-Learn</b> to find similarity between items based on their name, recipe_step and tags. To bring all these properties of each item together, we create a <b>"rec"</b> of tags. rec is a processed string correspnding to each item, formed using the constituents of tags & name.
+We will be use <b>TfidfVectorizer</b> & <b>linear_kernel</b> from <b>Scikit-Learn</b> to find similarity between items based on their name, recipe_step and tags. To bring all these properties of each item together, we create a <b>"rec"</b> of tags. rec is a processed string correspnding to each item, formed using the constituents of tags & name.
 
 
 ## Sample Recommendation
