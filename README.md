@@ -1,4 +1,4 @@
-# Fast API Url :- http://127.0.0.1:8000/docs/
+# Fast API Url :- https://food-recommendation-ml.herokuapp.com/docs
 
 
 ## Food-Recmmendation-System-Python
