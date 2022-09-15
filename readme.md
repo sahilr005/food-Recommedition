@@ -1,6 +1,4 @@
-## Website:- food-recommendation-ml.web.app
-
-### Fast API Url :- https://food-recommendation-ml.herokuapp.com/docs
+# Fast API Url :- https://food-recommendation-ml.herokuapp.com/docs
 
 
 ## Food-Recmmendation-System-Python
