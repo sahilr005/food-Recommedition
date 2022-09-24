@@ -1,5 +1,6 @@
-# Fast API Url :- https://food-recommendation-ml.herokuapp.com/docs
+## Website : https://food-recommendation-ml.web.app/#/
 
+## Fast API Url :- https://food-recommendation-ml.herokuapp.com/docs
 
 ## Food-Recmmendation-System-Python
 
@@ -23,5 +24,3 @@ recommendation_n(reciepe_name)
 ## Deploy
 
 Build Recmmendation-System API in FastAPI ,which gives <b>All Recipes Name</b> and <b>Top 5 Similar Recipes Name</b>
-
-http://127.0.0.1:8000/docs/
