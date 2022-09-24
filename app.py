@@ -27,6 +27,7 @@ def recommendation_n(name,sim):
         rec = rec[0:6]
         for i in rec:
             mm.append(data.iloc[i[0]][["name","image_url"]])
+            # mm.append(data.iloc[i[0]])
     except:
         mm.append("Reciepe Not Found, run recipe_name api & try those name.")
     return mm
@@ -45,7 +46,10 @@ app.add_middleware(
 
 @app.get("/")
 def recipe_name():
-    return data[["name","image_url"]].sample(20)
+    # a=[]
+    # a.append(data.sample(20))
+    # data.iloc[10[0]][["name","image_url"]]
+    return data.sample(20).to_dict()
 
 @app.post("/detail")
 def nameDetail(name:str):
