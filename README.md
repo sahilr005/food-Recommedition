@@ -1,4 +1,7 @@
 ## Website : https://food-recommendation-ml.web.app/#/
+![image](https://user-images.githubusercontent.com/76276129/193652706-633d2845-63fc-4898-841c-0d952c51856c.png)
+![1](https://user-images.githubusercontent.com/76276129/193652468-0c15a992-8733-4511-8ddc-7bf28409db58.PNG)
+![image](https://user-images.githubusercontent.com/76276129/193652388-6ea0051d-8eff-432d-9dc2-56a612bdd7af.png)
 
 ## Fast API Url :- https://food-recommendation-ml.herokuapp.com/docs
 
